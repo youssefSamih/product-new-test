@@ -2,7 +2,7 @@
   "name": "product-form",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://youssefsamih.github.io/product-form",
+  "homepage": "https://youssefsamih.github.io/product-new-test",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^12.0.0",
