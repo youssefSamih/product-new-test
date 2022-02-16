@@ -11,8 +11,8 @@ script:
   - yarn build
 
 deploy:
-  provider: releases
-  api_key: $GITHUB_TOKEN
+  provider: pages
+  github_token: $GITHUB_TOKEN
   skip_cleanup: true
   local_dir: build
   on:
