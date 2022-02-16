@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+url of deployment https://youssefsamih.github.io/product-new-test/
+
 ![Pipeline success](screenshoot.png)
 
 ## Available Scripts
