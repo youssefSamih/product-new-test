@@ -1,3 +1,9 @@
+# Install
+
+- `yarn`
+- `yarn husky install`
+- `yarn husky add .husky/pre-commit "yarn lint-staged"`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
